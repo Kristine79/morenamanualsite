@@ -1,0 +1,6 @@
+{
+  "name": "MORENA VPN",
+  "description": "Инструкция по установке VPN-приложения в стиле Cyberpunk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
